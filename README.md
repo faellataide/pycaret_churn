@@ -1,1 +1,7 @@
-# pycaret_churn
+# Previsão de Churn com PyCaret
+
+A rotatividade de clientes, ou churn em inglês, é um indicador chave de negócio e seu aumento pode significar em perdas relevantes para as empresas. Os motivos relacionados à esta rotatividade podem estar diretamente ligados à experiencia e satisfação que o consumidor tem no momento da aquisição do produto ou serviço, mas também há outros motivos e padrões de comportamento que podem levar um cliente a deixar de se relacionar com a empresa.  
+
+Avaliar estes motivos é de suma importância para a empresa conseguir medir e monitorar a performance de sua base de clientes, mas nem sempre é tão simples essa medição, pois as bases de dados estão cada vez maiores, o que torna muito complexo os processos comuns de mensuração. Neste cenário, a inteligência artificial pode contribuir significativamente para medir e prever clientes em potencial churn, avaliando um volume grande de dados em pouco tempo, e encontrando padrões de comportamento que podem ser imperceptíveis à análise comum.  
+
+Com o objetivo de demostrar uma biblioteca em Python que pode acelerar o desenvolvimento de um algoritmo capaz de prever o churn, com pouca aplicação de código e com acurácia e precisão elevados, este trabalho visa trazer uma opção de desenvolvimento ágil para que empresas possam avaliar a aplicabilidade deste modelo de algoritmo em seus negócios, para ajudar a prever a perda de clientes usando técnicas de inteligência artificial, e potencializando o retorno de investimento no negócio. 
